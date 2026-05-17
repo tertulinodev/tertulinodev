@@ -1,4 +1,4 @@
-# Olá, eu sou Ingryd Tertulino 👋
+# 👩‍💻 Ingryd Tertulino | Full-stack & Mobile Developer | Data Analyst
 
 ---
 
