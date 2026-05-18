@@ -48,8 +48,12 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tertulinodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Ingryd" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tertulinodev&layout=compact&theme=dracula&langs_count=7" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tertulinodev&theme=react-dark&area=true&hide_border=true" alt="Gráfico de Atividades do GitHub de Ingryd" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tertulinodev&theme=dracula" alt="Resumo do Perfil de Ingryd" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tertulinodev&theme=dracula" alt="Linguagens mais utilizadas" width="49%" />
 </p>
 
 ---
