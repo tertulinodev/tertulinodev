@@ -15,33 +15,48 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 
 ### 🛠️ Tecnologias e Ferramentas
 
+#### 💻 Desenvolvimento & Software
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-* **Software & Apps:** Python, JavaScript, Java, C++, C#, TypeScript, HTML5, CSS3, Engenharia de Software.
-* **Design & Desenvolvimento de Jogos:** Unity Engine, UI Design, UX Design, Prototipagem, Web Design e Game Design.
-* **Dados & Estatística:** Linguagem R, Power BI, Análise Estatística, Microsoft Excel (Dashboards Avançados), SQL e Microsoft SQL Server (queries complexas e estruturação de dicionários de dados).
-* **Escrita & Revisão:** Revisão de Texto, Redação Técnica e Comunicação Assertiva.
-* **Inteligência Artificial & Processamento de Texto:** Criação e integração de soluções baseadas em IA, Engenharia de Prompts e Expressões Regulares (`re` / Regex) para mineração e manipulação textual avançada.
-* **Automação de Workflows & Integrações:** N8N para conexões de APIs e automatização de fluxos de trabalho.
-* **Ambientes & Versionamento:** VS Code, Git / GitHub, Google Colab.
-* **Idiomas:** Inglês (Avançado) | Espanhol (Avançado).
+#### 📊 Dados, BI & Automação
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+#### 🎮 Design & Engines de Jogos
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+#### 🔧 Ambientes & Versionamento
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+</p>
+
+#### 🗣️ Idiomas
+<p align="left">
+  <img src="https://img.shields.io/badge/Inglês-Avançado-US?style=for-the-badge&color=00247D" />
+  <img src="https://img.shields.io/badge/Espanhol-Avançado-ES?style=for-the-badge&color=C60B1E" />
+</p>
 
 ---
 
