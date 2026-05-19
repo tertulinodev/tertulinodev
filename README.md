@@ -13,6 +13,8 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 
 ---
 
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 #### 💻 Desenvolvimento & Software
@@ -37,6 +39,20 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
   <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+#### 🤖 Inteligência Artificial & Engenharia de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+#### 🧠 Sistemas Auto-Organizáveis & Agentes de IA
+<p align="left">
+  <img src="https://img.shields.io/badge/CrewAI-FFA000?style=for-the-badge&logo=swarm&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-00G853?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 #### 🎮 Design & Engines de Jogos
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -46,10 +62,12 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 #### 🔧 Ambientes & Versionamento
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acode_Editor-2196F3?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 </p>
 
 #### 🗣️ Idiomas
@@ -75,6 +93,7 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 
 ### 📋 Projetos em Destaque
 
+* **🤖 Sistema Multi-Agente Autônomo com CrewAI:** *(Em desenvolvimento)* Arquitetura de IA baseada em agentes independentes e especializados (Ex: Agente Pesquisador e Agente Escritor) que colaboram entre si para realizar análise automatizada de dados e geração de relatórios técnicos de forma 100% autônoma.
 * **📚 Dicionário de Termos com SQL & Python:** *(Em desenvolvimento)* Aplicação integrada que une uma lógica em Python e a estruturação de banco de dados relacional em SQL para armazenamento, indexação e busca otimizada de verbetes e termos linguísticos.
 * **🔍 Processador de Texto com Regex:** Script interativo em Python para busca, contagem e substituição dinâmica de padrões de texto utilizando a biblioteca `re` no terminal e no Jupyter Notebook.
 * **🔑 Gerador de Senhas Aleatórias:** Aplicação interativa desenvolvida com foco em segurança de credenciais e usabilidade de interface.
