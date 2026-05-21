@@ -104,13 +104,13 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 ### 🎨 Desenvolvimento Criativo & Lógica Visual
 *Experimentos focados em lógica de estado, interatividade em tempo real, animações fluidas e experiência do usuário (UX).*
 
-* **🍄 Super Mario Jump**: Um clássico jogo arcade reconstruído para o navegador utilizando JavaScript Vanilla. O projeto explora manipulação dinâmica do DOM, lógica assíncrona para detecção de colisões em tempo real baseada na posição dos elementos, além de um sistema de gerenciamento de estados que controla as telas de início, Game Over e Vitória.
+* **🍄 Super Mario Jump**: Um clássico jogo arcade reconstruído para o navegador utilizando JavaScript Vanilla. O projeto conta com um sistema dinâmico de progressão estruturado em **3 fases distintas**, exigindo controle avançado de estados para transição de cenários, velocidade progressiva dos obstáculos e manipulação do DOM. Explora lógica assíncrona para detecção de colisões em tempo real baseada nos eixos dos elementos, além de telas de início, Game Over e Vitória.
   * [Jogar Online ↗](https://tertulinodev.github.io/super-mario-jump/) | [Ver Código ↗](https://github.com/tertulinodev/super-mario-jump)
 
-* **🎮 Supersonic Game**: Jogo interativo rodando direto no navegador focado em testes de agilidade e tempo de resposta do usuário. Desenvolvido explorando conceitos fundamentais de engenharia de software como loops de jogo (*game loops*), captura de inputs do teclado e renderização visual fluida.
-  * [Jogar Online ↗](https://tertulinodev.github.io/supersonicgame/) | [Ver Código ↗](https://github.com/tertulinodev/supersonicgame)
+* **🎮 Supersonic Game**: Jogo interativo rodando direto no navegador focado em testes de agilidade e tempo de resposta do usuário. Desenvolvido explorando conceitos fundamentais de engenharia de software como loops de jogo (*game loops*), captura de inputs do teclado e renderização visual fluida para garantir uma jogabilidade reativa.
+  * [Jogar Online 2](https://tertulinodev.github.io/supersonicgame/) | [Ver Código ↗](https://github.com/tertulinodev/supersonicgame)
 
-* **🍃 Animação de Folhas**: Projeto conceitual de interface focado em estilização fluida e alta performance visual. Explora o uso avançado de CSS3 Keyframes, transformações tridimensionais e propriedades de animação assíncronas para criar um ambiente imersivo e responsivo.
+* **🍃 Animação de Folhas**: Projeto conceitual de interface focado em estilização fluida e alta performance visual. Explora o uso avançado de CSS3 Keyframes, transformações tridimensionais (3D) e propriedades de animação assíncronas para criar um ambiente imersivo, leve e totalmente responsivo.
   * [Ver Online ↗](https://tertulinodev.github.io/anima-o-de-folhas/) | [Ver Código ↗](https://github.com/tertulinodev/anima-o-de-folhas)
 
 ---
