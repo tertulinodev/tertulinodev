@@ -95,8 +95,23 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
 
 * **🤖 Sistema Multi-Agente Autônomo com CrewAI:** *(Em desenvolvimento)* Arquitetura de IA baseada em agentes independentes e especializados (Ex: Agente Pesquisador e Agente Escritor) que colaboram entre si para realizar análise automatizada de dados e geração de relatórios técnicos de forma 100% autônoma.
 * **📚 Dicionário de Termos com SQL & Python:** *(Em desenvolvimento)* Aplicação integrada que une uma lógica em Python e a estruturação de banco de dados relacional em SQL para armazenamento, indexação e busca otimizada de verbetes e termos linguísticos.
+* **🚀 Rastreador de Preços Inteligente** *(Em desenvolvimento)*: Robô automatizado desenvolvido em Python focado em inteligência de mercado e automação. A aplicação realiza Web Scraping estruturado para monitorar a oscilação de valores de eletrônicos, armazena o histórico em um banco de dados relacional e dispara alertas automatizados via e-mail (SMTP) sempre que detecta uma queda de preço de um produto alvo.
 * **🔍 Processador de Texto com Regex:** Script interativo em Python para busca, contagem e substituição dinâmica de padrões de texto utilizando a biblioteca `re` no terminal e no Jupyter Notebook.
 * **🔑 Gerador de Senhas Aleatórias:** Aplicação interativa desenvolvida com foco em segurança de credenciais e usabilidade de interface.
+
+---
+
+### 🎨 Desenvolvimento Criativo & Lógica Visual
+*Experimentos focados em lógica de estado, interatividade em tempo real, animações fluidas e experiência do usuário (UX).*
+
+* **🍄 Super Mario Jump**: Um clássico jogo arcade reconstruído para o navegador utilizando JavaScript Vanilla. O projeto explora manipulação dinâmica do DOM, lógica assíncrona para detecção de colisões em tempo real baseada na posição dos elementos, além de um sistema de gerenciamento de estados que controla as telas de início, Game Over e Vitória.
+  * [Jogar Online ↗](https://tertulinodev.github.io/super-mario-jump/) | [Ver Código ↗](https://github.com/tertulinodev/super-mario-jump)
+
+* **🎮 Supersonic Game**: Jogo interativo rodando direto no navegador focado em testes de agilidade e tempo de resposta do usuário. Desenvolvido explorando conceitos fundamentais de engenharia de software como loops de jogo (*game loops*), captura de inputs do teclado e renderização visual fluida.
+  * [Jogar Online ↗](https://tertulinodev.github.io/supersonicgame/) | [Ver Código ↗](https://github.com/tertulinodev/supersonicgame)
+
+* **🍃 Animação de Folhas**: Projeto conceitual de interface focado em estilização fluida e alta performance visual. Explora o uso avançado de CSS3 Keyframes, transformações tridimensionais e propriedades de animação assíncronas para criar um ambiente imersivo e responsivo.
+  * [Ver Online ↗](https://tertulinodev.github.io/anima-o-de-folhas/) | [Ver Código ↗](https://github.com/tertulinodev/anima-o-de-folhas)
 
 ---
 
