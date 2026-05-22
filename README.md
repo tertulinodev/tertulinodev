@@ -1,10 +1,10 @@
-# 👩‍💻 Ingryd Tertulino | Full-stack & Mobile Developer | Data Analyst
+# 👩‍💻 Ingryd Tertulino | Full-stack & Mobile Developer | Data Analyst (PCD)
 
 ---
 
-### 💻 Sobre Mim
+### Sobre Mim
 
-Profissional multidisciplinar com sólida capacidade lógica, raciocínio analítico apurado e paixão por projetar experiências digitais completas. Atuo de forma versátil na intersecção entre a Engenharia de Software, o Desenvolvimento de Aplicativos/Jogos, a Ciência de Dados e o Design de Interface.
+Sou uma profissional multidisciplinar, **PCD (diagnosticada com Síndrome de Moebius)** e com **Altas Habilidades (Superdotação)**. Essa combinação me confere uma resiliência única, sólida capacidade lógica, raciocínio analítico apurado e uma **curva de aprendizado extremamente rápida**. Sou movida pelo desafio de dominar novas tecnologias em tempo recorde, sendo totalmente autodidata e apaixonada por projetar experiências digitais completas. Atuo de forma versátil na intersecção entre a Engenharia de Software, o Desenvolvimento de Aplicativos/Jogos, a Ciência de Dados e o Design de Interface.
 
 - **Desenvolvimento Full-stack & Mobile:** Possuo ampla versatilidade de código e facilidade no aprendizado de novas tecnologias. Atuo na arquitetura e desenvolvimento de sistemas web responsivos e na construção de aplicativos funcionais de ponta a ponta. Como marco de destaque técnico e acadêmico, idealizei e construí uma plataforma digital pedagógica robusta utilizando Python.
 - **UI/UX Design:** Especializada em criar interfaces que unem estética e funcionalidade. Aplico conceitos de User Experience (UX) e User Interface (UI) para mapear jornadas de usuários, estruturar wireframes e prototipar telas intuitivas, garantindo que sistemas, jogos e aplicativos móveis entreguem uma usabilidade impecável e fluida.
@@ -108,7 +108,7 @@ Profissional multidisciplinar com sólida capacidade lógica, raciocínio analí
   * [Jogar Online ↗](https://tertulinodev.github.io/super-mario-jump/) | [Ver Código ↗](https://github.com/tertulinodev/super-mario-jump)
 
 * **🎮 Supersonic Game**: Jogo interativo rodando direto no navegador focado em testes de agilidade e tempo de resposta do usuário. Desenvolvido explorando conceitos fundamentais de engenharia de software como loops de jogo (*game loops*), captura de inputs do teclado e renderização visual fluida para garantir uma jogabilidade reativa.
-  * [Jogar Online 2](https://tertulinodev.github.io/supersonicgame/) | [Ver Código ↗](https://github.com/tertulinodev/supersonicgame)
+  * [Jogar Online 2](https://tertulinodev.github.io/super-sonic-game/) | [Ver Código ↗](https://github.com/tertulinodev/supersonicgame)
 
 * **🍃 Animação de Folhas**: Projeto conceitual de interface focado em estilização fluida e alta performance visual. Explora o uso avançado de CSS3 Keyframes, transformações tridimensionais (3D) e propriedades de animação assíncronas para criar um ambiente imersivo, leve e totalmente responsivo.
   * [Ver Online ↗](https://tertulinodev.github.io/anima-o-de-folhas/) | [Ver Código ↗](https://github.com/tertulinodev/anima-o-de-folhas)
